@@ -58,3 +58,5 @@ parity test --config=parity.yaml --format=json --show-tests
 ```
 
 The workflow uploads `.parity/per-test` and `parity-result.json` so every green run has inspectable proof. No private token is required.
+
+[![advertisement](https://ads.servead.net/i/6fd4f303-1046-47e1-9528-14f574f9ff91.svg)](https://ads.servead.net/c/6fd4f303-1046-47e1-9528-14f574f9ff91)
